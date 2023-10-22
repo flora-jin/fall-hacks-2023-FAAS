@@ -1,4 +1,6 @@
 # fall-hacks-2023-
+
+We used Unity to create our project which made us add the zip file to a google drive and email the file instead.
 FAAS fallhacks
 Team Members:
 Sloane, Alyssa, Flora, Anne
